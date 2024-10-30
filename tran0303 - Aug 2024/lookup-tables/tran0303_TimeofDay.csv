@@ -1,0 +1,11 @@
+item,hierarchy,lang,description,notes
+1,5,en-gb,00:00-05:59,
+2,5,en-gb,06:00-11:59,
+3,5,en-gb,12:00-17:59,
+4,5,en-gb,18:00-23:59,
+5,,en-gb,Total,
+1,5,cy-gb,00:00-05:59,
+2,5,cy-gb,06:00-11:59,
+3,5,cy-gb,12:00-17:59,
+4,5,cy-gb,18:00-23:59,
+5,,cy-gb,Cyfanswm,

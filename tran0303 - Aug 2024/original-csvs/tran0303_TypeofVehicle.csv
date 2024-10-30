@@ -1,0 +1,13 @@
+item,hierarchy,sort_order,description_cy,description_en,notes_cy,notes_en
+1,12,,Cerddwyr,Pedestrians,,
+10,12,,Faniau Ysgafn neu Gerbydau Nwyddau,Light vans or goods vehicles,,
+11,12,,Defnyddwyr eraill y ffordd,Other road users,,
+12,,,Holl ddefnyddwyr y ffordd,All road users,,
+2,12,,Beicwyr pedal,Pedal cyclists,,
+3,12,,Motorbeicwyr,Motorcyclists,,
+4,12,,Tacsis neu Cerbydau Hurio Preifat,Taxis or private hire vehicles,,
+5,12,,Defnyddwyr Ceir,Cars,,
+6,12,,"Bysiau Mini, Bysiau neu Coetsys",Bus or coach or minibus,,
+7,12,,Ceffylau Marchogaeth,Ridden horse,,
+8,12,,Cerbydau Amaethyddol,Agricultural vehicles,,
+9,12,,Tramiau neu Reilffordd Ysgafn,Tram or light rail,,

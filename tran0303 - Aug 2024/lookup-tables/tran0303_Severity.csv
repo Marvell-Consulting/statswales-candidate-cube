@@ -1,0 +1,11 @@
+item,hierarchy,lang,description,notes
+1,4,en-gb,Killed,
+2,4,en-gb,Seriously injured,
+3,5,en-gb,Slightly injured,
+4,5,en-gb,KSI,
+5,,en-gb,All severities,
+1,4,cy-gb,Lladdwyd,
+2,4,cy-gb,Anafwyd yn ddifrifol,
+3,5,cy-gb,Anafwyd yn ychydig,
+4,5,cy-gb,LlAD,
+5,,cy-gb,Pob difrifoldeb,
