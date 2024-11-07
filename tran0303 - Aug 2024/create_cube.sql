@@ -1,3 +1,4 @@
+SET threads TO 1;
 -- CREATE FACT TABLE
 CREATE TABLE fact_table AS FROM 'tran0303_data.parquet';
 
